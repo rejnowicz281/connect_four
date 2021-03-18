@@ -123,6 +123,6 @@ class ConnectFour
     end 
 end     
 
-g = ConnectFour.new 
+#g = ConnectFour.new 
 
-g.play
+#g.play
